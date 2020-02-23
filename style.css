@@ -1,0 +1,89 @@
+.img{
+    border-radius:50%;
+}
+img:hover{
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+a:hover{
+    color: #566963;
+}
+.Email{
+    display: inline;
+    color: black;
+}
+
+hr{
+    border: dashed;
+    width: 50%;
+    margin: 100px auto;
+    color: lightgrey;
+    border-bottom: none;
+}
+body{
+    text-align: center;
+    background-color: cornsilk;
+    font-family: cursive;
+    font-size: 250%;
+    border: 3px dashed aqua;
+    padding: 10px;
+}
+.Bottom-Cloud{
+    position: relative;
+    right: 400px;
+}
+.Top-Cloud{
+    padding-top: 180px;
+    padding-right: 200px;
+}
+.copy{
+    color: teal;
+    font-size:0.75em;
+    padding: 20px 0px 0px 0px;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Dancing Script', cursive;
+    color: #66BFBF;}
+ h2{
+        font-family: 'Dancing Script', cursive;
+        color: #66BFBF;}
+ a{
+            font-family: 'Dancing Script', cursive;
+            color: #66BFBF;}
+            td{
+                border: 2px solid black;
+                background-color: cadetblue;
+            }
+            th{
+                border: 2px solid black;
+                background-color: cadetblue;
+            }
+
+.myButton {
+	box-shadow: -4px 6px 1px 1px #91b8b3;
+	background-color:#768d87;
+	border-radius:28px;
+	border:1px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:21px;
+	font-weight:bold;
+	font-style:italic;
+	padding:9px 7px;
+	text-decoration:none;
+    text-shadow:-1px 5px 0px #2b665e;
+}
+.myButton:hover {
+	background-color:#6c7c7c;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
